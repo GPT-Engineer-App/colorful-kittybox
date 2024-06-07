@@ -43,6 +43,9 @@ const Index = () => {
             <Link href="https://discord.gg/hb9VXJSC" isExternal>
               Serverio Discord
             </Link>
+            <Link href="https://discord.com/invite/V9Ycryf2" isExternal>
+              Naujas Discord
+            </Link>
           </HStack>
         </VStack>
       </VStack>
